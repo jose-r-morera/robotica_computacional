@@ -97,7 +97,8 @@ En la figura \ref{chapter:ccd_ejemplo2} se muestra la última iteración del alg
 \subsection{Ejecución 2}
 En la figura \ref{chapter:ccd_ejemplo3} se muestra la primera iteración del algoritmo sobre el robot descrito considerando como objetivo el punto -20,-20.
 En la figura \ref{chapter:ccd_ejemplo4} se muestra la última iteración del algoritmo, en la que se ha alcanzado el umbral de convergencia. En este caso, se consigue converger en 5 iteraciones.
-
+Se aprovecha este ejemplo para estudiar la influencia del valor del umbral de convergencia en el número de iteraciones necesarias. El epsilon empleado por defecto es de 0.01, cambiándolo a 0.1, se converge en menos iteraciones, 4 en este caso. 
+Se comprueba por tanto empíricamente que un umbral mayor implica menos iteraciones, pero también una menor precisión en el resultado obtenido.
 \begin{figure}[htb]
    \centering
    \includegraphics[width=.8\linewidth]{images/ccd_7.png}
@@ -132,5 +133,9 @@ En la figura \ref{chapter:ccd_ejemplo6} se muestra la salida por consola indican
 
 
 \section{Conclusions}
+We have implemented the inverse kinematics for a 2D manipulator, using the CCD algorithm. The immplementation considers both prismatic and revolute joints, for wich we admit lower and upper limits.
+We have studied the effects of different convergence thresholds, seen that a higher threshold implies less iterations but also less precision.
+Also, we have studied the complexity of the inverse kinematics with the CCD algorithm. We have seen that it is quadratic, as it is a iterative process in which we must calculate the direct kinematics for each articulation in each iteration.
 
-Umbral de convergencia
+\bigskip We can conclude that the inverse kinematics are generally more complex and expensive than the direct kinematics, as an exact approach is not always valid because for some configurations there may exist multiple or none solutions. 
+
