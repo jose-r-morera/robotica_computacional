@@ -10,8 +10,18 @@
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Ejecución 3}}{8}{figure.caption.10}%
 \contentsline {figure}{\numberline {2.8}{\ignorespaces Ejecución 3, perspectiva vertial}}{9}{figure.caption.11}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Otra figura}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Código del CCD para articulaciones prismáticas}}{11}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Código del CCD para articulaciones de revolución}}{12}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Código para la lectura de JSON}}{13}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ejemplo de fichero JSON para un robot de 3 articulaciones}}{14}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ejemplo de fichero JSON para un robot de 5 articulaciones}}{16}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Primera iteración para objetivo 10,10}}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Última iteración para objetivo 10,10}}{17}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Primera iteración para objetivo -20,-20}}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Última iteración para objetivo -20,-20}}{18}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Última iteración para objetivo 10,10}}{19}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Salida por consola cuando no converge}}{19}{figure.caption.22}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Ejemplo de figura}}{14}{figure.caption.13}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Ejemplo de figura}}{21}{figure.caption.23}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

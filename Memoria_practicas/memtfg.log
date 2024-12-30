@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  29 DEC 2024 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  30 DEC 2024 01:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -741,7 +741,7 @@ Package gensymb Info: Using \textmu for \micro on input line 102.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \c@lstlisting=\count358
-<images/escuela-ingenieria-tecnologia-original.png, id=112, 434.1018pt x 158.994pt>
+<images/escuela-ingenieria-tecnologia-original.png, id=128, 434.1018pt x 158.994pt>
 File: images/escuela-ingenieria-tecnologia-original.png Graphic file (type png)
 <use images/escuela-ingenieria-tecnologia-original.png>
 Package pdftex.def Info: images/escuela-ingenieria-tecnologia-original.png  used on input line 121.
@@ -851,7 +851,17 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 [1
 
-] (./memtfg.lof)
+] (./memtfg.lof
+Overfull \hbox (2.63512pt too wide) detected at line 22
+\T1/fve/m/n/12 3.10. 
+ []
+
+
+Overfull \hbox (2.63512pt too wide) detected at line 23
+\T1/fve/m/n/12 3.11. 
+ []
+
+)
 \tf@lof=\write5
 \openout5 = `memtfg.lof'.
 
@@ -958,52 +968,53 @@ Package microtype Info: Loading generic protrusion settings for font family
 [2
 
 ]
-<images/cin_dir_1.png, id=199, 785.93625pt x 608.2725pt>
+<images/cin_dir_1.png, id=239, 785.93625pt x 608.2725pt>
 File: images/cin_dir_1.png Graphic file (type png)
 <use images/cin_dir_1.png>
 Package pdftex.def Info: images/cin_dir_1.png  used on input line 26.
 (pdftex.def)             Requested size: 483.69687pt x 374.36845pt.
-<images/cin_dir_2.png, id=200, 646.415pt x 460.72125pt>
-File: images/cin_dir_2.png Graphic file (type png)
-<use images/cin_dir_2.png>
-Package pdftex.def Info: images/cin_dir_2.png  used on input line 40.
-(pdftex.def)             Requested size: 290.22107pt x 206.85162pt.
 
 
 [3 <./images/cin_dir_1.png>]
-<images/cin_dir_3.png, id=207, 560.0925pt x 870.25125pt>
+<images/cin_dir_2.png, id=245, 646.415pt x 460.72125pt>
+File: images/cin_dir_2.png Graphic file (type png)
+<use images/cin_dir_2.png>
+Package pdftex.def Info: images/cin_dir_2.png  used on input line 48.
+(pdftex.def)             Requested size: 290.22107pt x 206.85162pt.
+<images/cin_dir_3.png, id=247, 560.0925pt x 870.25125pt>
 File: images/cin_dir_3.png Graphic file (type png)
 <use images/cin_dir_3.png>
-Package pdftex.def Info: images/cin_dir_3.png  used on input line 51.
+Package pdftex.def Info: images/cin_dir_3.png  used on input line 59.
 (pdftex.def)             Requested size: 386.95897pt x 601.27075pt.
-<images/cin_dir_4.png, id=209, 462.528pt x 346.896pt>
+<images/cin_dir_4.png, id=249, 462.528pt x 346.896pt>
 File: images/cin_dir_4.png Graphic file (type png)
 <use images/cin_dir_4.png>
-Package pdftex.def Info: images/cin_dir_4.png  used on input line 60.
+Package pdftex.def Info: images/cin_dir_4.png  used on input line 68.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<images/cin_dir_5.png, id=211, 462.528pt x 346.896pt>
+<images/cin_dir_5.png, id=251, 462.528pt x 346.896pt>
 File: images/cin_dir_5.png Graphic file (type png)
 <use images/cin_dir_5.png>
-Package pdftex.def Info: images/cin_dir_5.png  used on input line 68.
+Package pdftex.def Info: images/cin_dir_5.png  used on input line 76.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<images/cin_dir_6.png, id=212, 462.528pt x 346.896pt>
+<images/cin_dir_6.png, id=252, 462.528pt x 346.896pt>
 File: images/cin_dir_6.png Graphic file (type png)
 <use images/cin_dir_6.png>
-Package pdftex.def Info: images/cin_dir_6.png  used on input line 74.
+Package pdftex.def Info: images/cin_dir_6.png  used on input line 82.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<images/cin_dir_7.png, id=214, 462.528pt x 346.896pt>
+
+
+[4 <./images/cin_dir_2.png>]
+<images/cin_dir_7.png, id=259, 462.528pt x 346.896pt>
 File: images/cin_dir_7.png Graphic file (type png)
 <use images/cin_dir_7.png>
-Package pdftex.def Info: images/cin_dir_7.png  used on input line 82.
+Package pdftex.def Info: images/cin_dir_7.png  used on input line 90.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-<images/cin_dir_8.png, id=215, 462.528pt x 346.896pt>
+<images/cin_dir_8.png, id=260, 462.528pt x 346.896pt>
 File: images/cin_dir_8.png Graphic file (type png)
 <use images/cin_dir_8.png>
-Package pdftex.def Info: images/cin_dir_8.png  used on input line 88.
+Package pdftex.def Info: images/cin_dir_8.png  used on input line 96.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
-
-
-[4 <./images/cin_dir_2.png>])
+)
 
 [5]
 
@@ -1016,43 +1027,110 @@ Package pdftex.def Info: images/cin_dir_8.png  used on input line 88.
 [9 <./images/cin_dir_8.png>]
 Cap\'{\i }tulo 3.
 (./cap3.tex
-File: images/cin_dir_1.png Graphic file (type png)
-<use images/cin_dir_1.png>
-Package pdftex.def Info: images/cin_dir_1.png  used on input line 22.
-(pdftex.def)             Requested size: 483.69687pt x 374.36845pt.
-
 
 [10
 
-])
+]
+<images/ccd_1.png, id=295, 1075.01625pt x 705.63625pt>
+File: images/ccd_1.png Graphic file (type png)
+<use images/ccd_1.png>
+Package pdftex.def Info: images/ccd_1.png  used on input line 21.
+(pdftex.def)             Requested size: 483.69687pt x 317.49031pt.
+<images/ccd_2.png, id=296, 659.46375pt x 655.44875pt>
+File: images/ccd_2.png Graphic file (type png)
+<use images/ccd_2.png>
+Package pdftex.def Info: images/ccd_2.png  used on input line 27.
+(pdftex.def)             Requested size: 483.69687pt x 480.76392pt.
 
-[11]
 
-[12]
+[11 <./images/ccd_1.png>]
+
+[12 <./images/ccd_2.png>]
+<images/ccd_3.png, id=313, 623.32875pt x 460.72125pt>
+File: images/ccd_3.png Graphic file (type png)
+<use images/ccd_3.png>
+Package pdftex.def Info: images/ccd_3.png  used on input line 55.
+(pdftex.def)             Requested size: 386.95897pt x 286.01682pt.
+<images/ccd_json1.png, id=314, 319.1925pt x 448.67625pt>
+File: images/ccd_json1.png Graphic file (type png)
+<use images/ccd_json1.png>
+Package pdftex.def Info: images/ccd_json1.png  used on input line 61.
+(pdftex.def)             Requested size: 193.47578pt x 271.96pt.
+<images/ccd_json2.png, id=316, 283.0575pt x 722.7pt>
+File: images/ccd_json2.png Graphic file (type png)
+<use images/ccd_json2.png>
+Package pdftex.def Info: images/ccd_json2.png  used on input line 75.
+(pdftex.def)             Requested size: 193.47578pt x 493.98787pt.
+
+
+[13 <./images/ccd_3.png>]
+<images/ccd_5.png, id=324, 462.528pt x 346.896pt>
+File: images/ccd_5.png Graphic file (type png)
+<use images/ccd_5.png>
+Package pdftex.def Info: images/ccd_5.png  used on input line 86.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<images/ccd_6.png, id=325, 462.528pt x 346.896pt>
+File: images/ccd_6.png Graphic file (type png)
+<use images/ccd_6.png>
+Package pdftex.def Info: images/ccd_6.png  used on input line 92.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<images/ccd_7.png, id=328, 462.528pt x 346.896pt>
+File: images/ccd_7.png Graphic file (type png)
+<use images/ccd_7.png>
+Package pdftex.def Info: images/ccd_7.png  used on input line 103.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<images/ccd_9.png, id=329, 462.528pt x 346.896pt>
+File: images/ccd_9.png Graphic file (type png)
+<use images/ccd_9.png>
+Package pdftex.def Info: images/ccd_9.png  used on input line 109.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<images/ccd_10.png, id=333, 462.528pt x 346.896pt>
+File: images/ccd_10.png Graphic file (type png)
+<use images/ccd_10.png>
+Package pdftex.def Info: images/ccd_10.png  used on input line 122.
+(pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
+<images/ccd_11.png, id=334, 392.46625pt x 364.36125pt>
+File: images/ccd_11.png Graphic file (type png)
+<use images/ccd_11.png>
+Package pdftex.def Info: images/ccd_11.png  used on input line 128.
+(pdftex.def)             Requested size: 290.22107pt x 269.4563pt.
+)
+
+[14 <./images/ccd_json1.png>]
+
+[15]
+
+[16 <./images/ccd_json2.png>]
+
+[17 <./images/ccd_5.png> <./images/ccd_6.png>]
+
+[18 <./images/ccd_7.png> <./images/ccd_9.png>]
+
+[19 <./images/ccd_10.png> <./images/ccd_11.png>]
 Cap\'{\i }tulo 4.
 (./cap4.tex
 
-[13
+[20
 
 ]
-<images/figura_1.png, id=264, 513.41812pt x 496.10344pt>
+<images/figura_1.png, id=373, 513.41812pt x 496.10344pt>
 File: images/figura_1.png Graphic file (type png)
 <use images/figura_1.png>
 Package pdftex.def Info: images/figura_1.png  used on input line 41.
 (pdftex.def)             Requested size: 386.95897pt x 373.91615pt.
 )
 
-[14 <./images/figura_1.png>]
+[21 <./images/figura_1.png>]
 Cap\'{\i }tulo 5.
 (./cap5.tex)
 
-[15
+[22
 
 ]
 Cap\'{\i }tulo 6.
 (./cap6.tex)
 
-[16
+[23
 
 ]
 
@@ -1060,7 +1138,7 @@ Package natbib Warning: Empty `thebibliography' environment on input line 260.
 
 
 
-[17
+[24
 
 
 ] (./memtfg.aux)
@@ -1073,21 +1151,21 @@ L3 programming layer <2024-12-09>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `memtfg.out' has not changed.
-(rerunfilecheck)             Checksum: 6AE49331A6F3F6D9ACF52697577F37ED;3297.
+(rerunfilecheck)             Checksum: D55A418244C48EFEE2D62A2FAE9F4D1D;3749.
  ) 
 Here is how much of TeX's memory you used:
- 21590 strings out of 473254
- 354167 string characters out of 5717961
- 902125 words of memory out of 5000000
- 44197 multiletter control sequences out of 15000+600000
- 614462 words of font info for 179 fonts, out of 8000000 for 9000
+ 21730 strings out of 473254
+ 356803 string characters out of 5717961
+ 904125 words of memory out of 5000000
+ 44288 multiletter control sequences out of 15000+600000
+ 616846 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,1063b,607s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fveb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on memtfg.pdf (22 pages, 419367 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fveb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
+Output written on memtfg.pdf (29 pages, 746301 bytes).
 PDF statistics:
- 321 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 500000)
- 55563 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 356 compressed objects within 4 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 55650 words of extra memory for PDF output out of 61914 (max. 10000000)
 

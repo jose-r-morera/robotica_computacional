@@ -33,6 +33,14 @@ En la figura~\ref{chapter:intro2} se muestra el fragmento del script que se debe
 \subsection{Complejidad}
 La complejidad del código depende del número de articulaciones del manipulador. Por cada nueva articulación, solamente es necesario realizar dos productos de matrices de transformación homogénea. Uno para obtener la matriz de transformación y otro para obtener las coordenadas de la articulación. Por tanto, la complejidad es lineal respecto al número de articulaciones.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Mejoras}
+En esta práctica no se han implementado mejoras, pero se proponen algunas que podrían ser interesantes.
+\begin{itemize}
+   \item \texttt{Lectura de JSON} se podría implementar la lectura de la morfología del robot desde un ficheor JSON, evitando tener que modificar el script para cada manipulador.
+   \item \texttt{Modificación de los parámetros en tiempo real} Sería de gran utilidad poder modificar las variables articulares mientras se visualiza el manipulador, para poder estudiar fácilmente cómo lo afectan.
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Ejemplo}
 Se emplea el Manipulador 3 de entre los propuestos para visualizar la cinemática directa. Se ha elegido puesto que tiene suficiente complejidad para ilustrar correctamente la práctica, pero sin ser excesiva.
 \begin{figure}[htb]
@@ -91,13 +99,6 @@ En último lugar, aplicamos una rotación de 30º en las articulaciones O1 y O3.
 \end{figure}
 
 De esta forma, hemos comprobado que el código funciona correctamente y que la descripción del manipulador realizada es correcta.
-
-\section{Mejoras}
-En esta práctica no se han implementado mejoras, pero se proponen algunas que podrían ser interesantes.
-\begin{itemize}
-   \item \texttt{Lectura de JSON} se podría implementar la lectura de la morfología del robot desde un ficheor JSON, evitando tener que modificar el script para cada manipulador.
-   \item \texttt{Modificación de los parámetros en tiempo real} Sería de gran utilidad poder modificar las variables articulares mientras se visualiza el manipulador, para poder estudiar fácilmente cómo lo afectan.
-\end{itemize}
 
 \section{Conclusions}
 We have studied the forward kinematics of a 3D manipulator. We have seen that we can characterize any manipulator by its Denavit-Hartenberg parameters, and that it is easy and fast to calculate the coordinates of each joint. 
