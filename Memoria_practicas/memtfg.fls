@@ -316,7 +316,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/bera/ts1fve.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8c.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8c.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8c.tfm
-OUTPUT memtfg.toc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8t.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/bera/fveb8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fveb8r.tfm
@@ -327,6 +326,7 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fveb8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/bera/fver8t.vf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8r.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/bera/fver8t.vf
+OUTPUT memtfg.toc
 INPUT ./memtfg.lof
 INPUT ./memtfg.lof
 INPUT memtfg.lof
@@ -455,12 +455,6 @@ INPUT ./images/ccd_11.png
 INPUT ./cap4.tex
 INPUT ./cap4.tex
 INPUT cap4.tex
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/vf/public/bera/fver8t.vf
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/bera/fver8r.tfm
-INPUT ./images/figura_1.png
-INPUT ./images/figura_1.png
-INPUT ./images/figura_1.png
-INPUT ./images/figura_1.png
 INPUT ./cap5.tex
 INPUT ./cap5.tex
 INPUT cap5.tex
