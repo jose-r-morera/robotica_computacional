@@ -68,7 +68,7 @@ En la figura \ref{chapter:code_ccd3} se muestra el código implementado para la 
 Actualmente solo se consideran las dimensiones iniciales del robot para la visualización. Sería interesante considerar también las coordenadas del punto objetivo para garantizar que se visualiza correctamente.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Ejemplo}
+\section{Ejemplos de Ejecución}
 En la figura \ref{chapter:ccd_json2} se muestra un ejemplo de fichero JSON con las características de un robot de 5 articulaciones.
 \begin{figure}[htb]
    \centering
@@ -97,7 +97,7 @@ En la figura \ref{chapter:ccd_ejemplo2} se muestra la última iteración del alg
 \subsection{Ejecución 2}
 En la figura \ref{chapter:ccd_ejemplo3} se muestra la primera iteración del algoritmo sobre el robot descrito considerando como objetivo el punto -20,-20.
 En la figura \ref{chapter:ccd_ejemplo4} se muestra la última iteración del algoritmo, en la que se ha alcanzado el umbral de convergencia. En este caso, se consigue converger en 5 iteraciones.
-Se aprovecha este ejemplo para estudiar la influencia del valor del umbral de convergencia en el número de iteraciones necesarias. El epsilon empleado por defecto es de 0.01, cambiándolo a 0.1, se converge en menos iteraciones, 4 en este caso. 
+Se aprovecha este ejemplo para estudiar la influencia del valor del umbral de convergencia en el número de iteraciones necesarias. El epsilon empleado por defecto es de 0.01, cambiándolo a 0.1 se converge en 4 iteraciones, una menos, con una distancia al objetivo de 0.01663 unidades. 
 Se comprueba por tanto empíricamente que un umbral mayor implica menos iteraciones, pero también una menor precisión en el resultado obtenido.
 \begin{figure}[htb]
    \centering
