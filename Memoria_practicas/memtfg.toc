@@ -26,19 +26,23 @@
 \contentsline {section}{\numberline {4.1}Código Implementado}{20}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Análisis}{20}{subsection.4.1.1}%
 \contentsline {subsection}{\numberline {4.1.2}Complejidad}{21}{subsection.4.1.2}%
-\contentsline {section}{\numberline {4.2}Mejoras}{22}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Mejoras}{21}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}Ajuste de la orientación}{22}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}Uso de incremento piramidal}{22}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Cálculo de un radio inicial en función de las balizas y margen}{22}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Ejemplos de ejecución}{22}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Conclusions}{22}{section.4.4}%
-\contentsline {chapter}{\numberline {5}\LARGE Filtro de Partículas}{24}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Código Implementado}{24}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Análisis}{24}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Complejidad}{24}{subsection.5.1.2}%
-\contentsline {section}{\numberline {5.2}Mejoras}{24}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Ajuste de la orientación}{24}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Uso de incremento piramidal}{24}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Cálculo de un radio inicial en función de las balizas y margen}{24}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Ejemplos de ejecución}{24}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Conclusions}{24}{section.5.4}%
+\contentsline {subsection}{\numberline {4.2.3}Cálculo de un radio inicial en función de las balizas y margen}{23}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Ejemplos de ejecución}{23}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Ejemplo 1}{23}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Ejemplo 2}{24}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Ejemplo 3}{25}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Ejemplo 4}{25}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Conclusions}{25}{section.4.4}%
+\contentsline {chapter}{\numberline {5}\LARGE Filtro de Partículas}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Código Implementado}{29}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Análisis}{29}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Complejidad}{29}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Mejoras}{29}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Ajuste de la orientación}{29}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Uso de incremento piramidal}{29}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Cálculo de un radio inicial en función de las balizas y margen}{29}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Ejemplos de ejecución}{29}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Conclusions}{29}{section.5.4}%
