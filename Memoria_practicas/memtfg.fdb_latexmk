@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1735598532.69482 "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" "memtfg.pdf" "memtfg" 1735598534.50633 0
+["pdflatex"] 1735611796.15469 "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" "memtfg.pdf" "memtfg" 1735611798.33075 0
   "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" 1735598095.15862 6049 a5dcd69c1d03d505c03f4999237083b7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -163,7 +163,7 @@
   "cap1.tex" 1735485077.40071 539 e56f022716d957595dd3506d7698cd7a ""
   "cap2.tex" 1735521810.6835 7185 4c675c994e449ca6baefe28f9b30a0af ""
   "cap3.tex" 1735598254.42594 10433 f610bf34e2e0e366dbab26f6ce9df7c6 ""
-  "cap4.tex" 1735598517.66082 507 39e85b7d36543b8b6b8089b72f288986 ""
+  "cap4.tex" 1735611795.84453 4688 575865161c212d391fad952da37bf1ec ""
   "cap5.tex" 1735598531.56476 506 887d7123fcccbe3d30ce896dc86a402b ""
   "ctable.sty" 1528822142 10366 1a99e4c57bfb30667e7c5356722db4a2 ""
   "images/ccd_1.png" 1735520803.46021 103460 ce35c7bebe62c3dab62e1cfa42cf07f2 ""
@@ -186,11 +186,16 @@
   "images/cin_dir_7.png" 1735511662.85348 37058 5ddc0c6ed04b5b3260c125e8f6bfa563 ""
   "images/cin_dir_8.png" 1735511662.92148 26684 4e396ad25028023eb2db1d04feaaa8f2 ""
   "images/escuela-ingenieria-tecnologia-original.png" 1528822142 17054 4746dd25b88b43ceeaafbd41b5bdf527 ""
-  "memtfg.aux" 1735598534.40875 11647 f7d7a783af552fcdb4f934e1619c66bc "pdflatex"
-  "memtfg.lof" 1735598534.40875 2357 7309cf8ff94a9c0643673d7b09308caa "pdflatex"
-  "memtfg.out" 1735598534.40875 6134 dfbd166f93ed1e8923c6420ff232eb52 "pdflatex"
+  "images/localizacion1.png" 1735611456.86941 172208 80cb3d26fe898e88a530f39b3911202a ""
+  "images/localizacion2.png" 1735611456.86541 48725 1fdf8347d7fa860cef2dab5989d0685c ""
+  "images/localizacion3.png" 1735611456.86141 70326 f004613eb072b8313c1f7f4b7f7616c2 ""
+  "images/localizacion5.png" 1735611456.85741 82062 cd69fdd886bbc8e21c86716278124cbb ""
+  "images/localizacion6.png" 1735611456.84941 129066 bbd22a5340386c9ad7ee30d51d6aab07 ""
+  "memtfg.aux" 1735611798.23253 12923 58cacd7d0f6a1eab1e5d4340d9d5b558 "pdflatex"
+  "memtfg.lof" 1735611798.23253 2925 e13b5d89702f7874351d19e1bb5f7031 "pdflatex"
+  "memtfg.out" 1735611798.23253 6134 dfbd166f93ed1e8923c6420ff232eb52 "pdflatex"
   "memtfg.tex" 1735598095.15862 6049 a5dcd69c1d03d505c03f4999237083b7 ""
-  "memtfg.toc" 1735598534.40875 3592 867a5325c01b7683b893f47e836d3d56 "pdflatex"
+  "memtfg.toc" 1735611798.23253 3592 ad561e21405a2b6bd0d6cfde17a1e7a6 "pdflatex"
   "multirow.sty" 1528822142 7374 f7c1f13fc632dd5c9b220a247d233082 ""
   "spanish.ldf" 1528822142 21612 5772dec1e643132e9ec6e1b45cbe2ddb ""
   (generated)
