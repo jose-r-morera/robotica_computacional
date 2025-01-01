@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  1 JAN 2025 19:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  1 JAN 2025 19:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex
-(/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex
+**/home/jr/Downloads/robotica_computacional/Memoria_practicas/Informe_Practicas.tex
+(/home/jr/Downloads/robotica_computacional/Memoria_practicas/Informe_Practicas.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/extsizes/extreport.cls
@@ -620,8 +620,8 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 File: listings.cfg 2024/09/23 1.10c listings configuration
 ))
 Package: listings 2024/09/23 1.10c (Carsten Heinz)
- (./memtfg.aux)
-\openout1 = `memtfg.aux'.
+ (./Informe_Practicas.aux)
+\openout1 = `Informe_Practicas.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
 LaTeX Font Info:    ... okay on input line 102.
@@ -691,9 +691,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 102.
- (./memtfg.out) (./memtfg.out)
+ (./Informe_Practicas.out) (./Informe_Practicas.out)
 \@outlinefile=\write3
-\openout3 = `memtfg.out'.
+\openout3 = `Informe_Practicas.out'.
 
 \symgns@font=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
@@ -763,7 +763,7 @@ Non-PDF special ignored!
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc} <./images/escuela-ingenieria-tecnologia-original.png>]
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 163.
- (./memtfg.toc
+ (./Informe_Practicas.toc
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 2.
 LaTeX Font Info:    Font shape `T1/fve/b/n' will be
@@ -837,7 +837,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ])
 \tf@toc=\write4
-\openout4 = `memtfg.toc'.
+\openout4 = `Informe_Practicas.toc'.
 
 
 
@@ -869,7 +869,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\ssf@size' on input line 166.
 
-[2] (./memtfg.lof
+[2] (./Informe_Practicas.lof
 Overfull \hbox (2.63512pt too wide) detected at line 22
 \T1/fve/m/n/12 3.10. 
  []
@@ -952,7 +952,7 @@ Overfull \hbox (2.63512pt too wide) detected at line 50
 
 )
 \tf@lof=\write5
-\openout5 = `memtfg.lof'.
+\openout5 = `Informe_Practicas.lof'.
 
 
 
@@ -1338,7 +1338,7 @@ Package pdftex.def Info: images/filtro10.png  used on input line 151.
 
 [37 <./images/filtro8.png> <./images/filtro9.png>]
 
-[38 <./images/filtro10.png>] (./memtfg.aux)
+[38 <./images/filtro10.png>] (./Informe_Practicas.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-09>
@@ -1347,19 +1347,19 @@ L3 programming layer <2024-12-09>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `memtfg.out' has not changed.
+Package rerunfilecheck Info: File `Informe_Practicas.out' has not changed.
 (rerunfilecheck)             Checksum: 26A95894E1124AD6EF26D9292A80A466;6205.
  ) 
 Here is how much of TeX's memory you used:
  22006 strings out of 473254
- 362834 string characters out of 5717961
- 908123 words of memory out of 5000000
+ 363153 string characters out of 5717961
+ 908156 words of memory out of 5000000
  44484 multiletter control sequences out of 15000+600000
  621808 words of font info for 221 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,7n,93p,1063b,709s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,7n,93p,1074b,709s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fveb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on memtfg.pdf (43 pages, 1937358 bytes).
+Output written on Informe_Practicas.pdf (43 pages, 1937359 bytes).
 PDF statistics:
  728 PDF objects out of 1000 (max. 8388607)
  571 compressed objects within 6 object streams

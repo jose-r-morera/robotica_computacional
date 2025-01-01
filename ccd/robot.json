@@ -1,0 +1,38 @@
+[
+  {
+    "type": "rotacion",
+    "th": 0,
+    "a": 5,
+    "limit_inf": -5,
+    "limit_sup": 5
+  },
+    {
+    "type": "prismatica",
+    "th": 0,
+    "a": 5,
+    "limit_inf": 0,
+    "limit_sup": 1000
+  },
+   {
+    "type": "rotacion",
+    "th": 0,
+    "a": 5,
+    "limit_inf": -5,
+    "limit_sup": 5
+  },
+     {
+    "type": "rotacion",
+    "th": 0,
+    "a": 5,
+    "limit_inf": -5,
+    "limit_sup": 5
+  },
+   {
+    "type": "prismatica",
+    "th": 0,
+    "a": 5,
+    "limit_inf": 0,
+    "limit_sup": 1000
+  }
+]
+
