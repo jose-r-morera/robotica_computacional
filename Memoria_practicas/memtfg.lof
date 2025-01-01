@@ -1,0 +1,50 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Porción del código que se debe modificar para cada manipulador}}{3}{figure.caption.3}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Manipulador 3}}{4}{figure.caption.4}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Código para el manipulador 3}}{6}{figure.caption.5}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ejecución 1}}{7}{figure.caption.6}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Ejecución 2}}{7}{figure.caption.7}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Ejecución 2, perspectiva vertial}}{8}{figure.caption.8}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Ejecución 3}}{8}{figure.caption.9}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Ejecución 3, perspectiva vertial}}{9}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Código del CCD para articulaciones prismáticas}}{11}{figure.caption.11}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Código del CCD para articulaciones de revolución}}{12}{figure.caption.12}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Código para la lectura de JSON}}{13}{figure.caption.13}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Ejemplo de fichero JSON para un robot de 3 articulaciones}}{14}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Ejemplo de fichero JSON para un robot de 5 articulaciones}}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Primera iteración para objetivo 10,10}}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Última iteración para objetivo 10,10}}{17}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Primera iteración para objetivo -20,-20}}{18}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Última iteración para objetivo -20,-20}}{18}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Última iteración para objetivo 10,10}}{19}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Salida por consola cuando no converge}}{19}{figure.caption.21}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Primera parte de la función de localización}}{21}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Fin de la función de localización}}{22}{figure.caption.23}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Localización inical}}{22}{figure.caption.24}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Corrección de la posición}}{23}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Parámetros de la localización}}{23}{figure.caption.26}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Primera iteración de la localización inicial}}{24}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Última iteración de la localización inicial}}{25}{figure.caption.28}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Trayectoria del ejemplo 1}}{26}{figure.caption.29}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Trayectoria del ejemplo 2}}{27}{figure.caption.30}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Trayectoria del ejemplo 3}}{27}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Trayectoria del ejemplo 4}}{28}{figure.caption.32}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Función \textit {genera\_filtro}}}{30}{figure.caption.33}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Función \textit {dispersion}}}{30}{figure.caption.34}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Función \textit {peso\_medio}}}{30}{figure.caption.35}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Inicialización del filtro}}{31}{figure.caption.36}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Actualización del filtro y remuestreo}}{33}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Inicio del ejemplo 1}}{34}{figure.caption.38}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Segunda iteración del ejemplo 1}}{34}{figure.caption.39}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Progreso del ejemplo 1}}{35}{figure.caption.40}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Convergencia del ejemplo 1}}{35}{figure.caption.41}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Trayectoria del ejemplo 1}}{36}{figure.caption.42}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Inicio del ejemplo 2}}{36}{figure.caption.43}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Convergencia del ejemplo 2}}{37}{figure.caption.44}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Trayectoria del ejemplo 2}}{37}{figure.caption.45}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Trayectoria del ejemplo 3}}{38}{figure.caption.46}%

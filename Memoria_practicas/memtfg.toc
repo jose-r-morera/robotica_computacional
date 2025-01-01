@@ -1,0 +1,49 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}\LARGE Introducción}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}\LARGE Cinemática Directa}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Código Implementado}{2}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Análisis}{2}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Complejidad}{3}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Mejoras}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Ejemplo}{4}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Código}{4}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Ejecución}{4}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Conclusions}{5}{section.2.4}%
+\contentsline {chapter}{\numberline {3}\LARGE Cinemática Inversa}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Código Implementado}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Análisis}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Complejidad}{11}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Fé de erratas}{12}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Mejoras}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Lectura de JSON}{13}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Propuestas}{13}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Ejemplos de Ejecución}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Ejecución 1}{14}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ejecución 2}{14}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Ejecución 3}{14}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusions}{15}{section.3.4}%
+\contentsline {chapter}{\numberline {4}\LARGE Localización}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Código Implementado}{20}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Análisis}{20}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Complejidad}{21}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Mejoras}{21}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Ajuste de la orientación}{22}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Uso de incremento piramidal}{22}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Cálculo de un radio inicial en función de las balizas y margen}{23}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Propuestas}{23}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Ejemplos de ejecución}{24}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Ejemplo 1}{24}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Ejemplo 2}{25}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Ejemplo 3}{25}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Ejemplo 4}{25}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Conclusions}{26}{section.4.4}%
+\contentsline {chapter}{\numberline {5}\LARGE Filtro de Partículas}{29}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Código Implementado}{29}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Análisis}{29}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Complejidad}{31}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}Mejoras}{31}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Ejemplos de ejecución}{31}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Ejemplo 1}{31}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Ejemplo 2}{32}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Ejemplo 3}{32}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Conclusions}{32}{section.5.4}%

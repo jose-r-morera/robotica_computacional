@@ -69,7 +69,12 @@ que esta forma es mucho más eficiente para estudiar el área, puesto que se evi
 \subsection{Cálculo de un radio inicial en función de las balizas y margen} La alternativa inicial consiste en establecer un radio arbitrario para el primer barrido. En su lugar,
 se decide implementar un cálculo del cuadrado que contiene a las balizas, mediante la selección de los mínimos y máximos de las componentes de sus coordenadas. A este área se le suma un cierto márgen
 en el que puede encontrarse el robot. De esta forma se consigue una aproximación más precisa en función de la geometría de las balizas.
-
+\subsection{Propuestas}
+En adición a las mejoras implementadas, se proponen las siguientes:
+\begin{itemize}
+  \item \texttt{Lectura de los datos de configuración desde un JSON}: Actualmente los parámetros se encuentran en el propio script, lo que dificulta su modificación. Se propone implementar un archivo JSON en el que se almacenen los parámetros, de forma que se puedan modificar sin necesidad de acceder al código.
+  \item \texttt{Visualización de múltiples trayectorias en una misma ejecución}: Sería valioso poder comparar varias trayectorias, ya sea de distintas ejecuciones con los mismos parámetros, debido a los ruidos, o para comparar distintas configuraciones.
+\end{itemize}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Ejemplos de ejecución}
 \subsection{Ejemplo 1}
