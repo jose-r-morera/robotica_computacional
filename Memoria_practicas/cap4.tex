@@ -67,7 +67,7 @@ En adición al comportamiento básico, se han implementado varias mejoras:
 estudiándose el centro de cada uno, y seleccionando el cuadrante con mayor probabilidad. Este proceso se repite hasta que los cuadrantes tienen un tamaño inferior a un límite establecido. El código correspondiente se muestra en la figura \ref{fig:localizacion_fun1}. Cabe destacar
 que esta forma es mucho más eficiente para estudiar el área, puesto que se evitan cálculos innecesarios. Sin embargo, se puede perder un poco de precisión ya que es posible que se seleccione un cuadrante erróneo si el punto se sitúa en el extremo entre dos, debido a los ruidos.
 \subsection{Cálculo de un radio inicial en función de las balizas y margen} La alternativa inicial consiste en establecer un radio arbitrario para el primer barrido. En su lugar,
-se decide implementar un cálculo del cuadrado que contiene a las balizas, mediante la selección de los mínimos y máximos de las componentes de sus coordenadas. A este área se le suma un cierto márgen
+se decide implementar un cálculo del cuadrado que contiene a las balizas, mediante la selección de los mínimos y máximos de las componentes de sus coordenadas. A este área se le suma un cierto margen
 en el que puede encontrarse el robot. De esta forma se consigue una aproximación más precisa en función de la geometría de las balizas.
 \subsection{Propuestas}
 En adición a las mejoras implementadas, se proponen las siguientes:
@@ -80,7 +80,7 @@ En adición a las mejoras implementadas, se proponen las siguientes:
 \subsection{Ejemplo 1}
 Se estudia la ejecución para un caso de 4 balizas, con un límite de incremento para la localización de 0.05 y un umbral para la corrección de trayectoria de 0.1. El resto de parámetros se mantienen en sus valores por defecto.
 
-\bigskip En primer lugar analizamos al localización inicial. En la figura \ref{fig:localizacion_ej1} se observa la primera iteración. Se distinguen los 4 cuadrantes y se muestra en tonos morados el que tiene mayor probabilidad.
+\bigskip En primer lugar analizamos la localización inicial. En la figura \ref{fig:localizacion_ej1} se observa la primera iteración. Se distinguen los 4 cuadrantes y se muestra en tonos morados el que tiene mayor probabilidad.
 Además, se observa la posición real del robot con un diamante verde, y la posición estimada, que corresponde con el centro del cuadrante, con un diamante violeta.
 A continuación, en la figura \ref{fig:localizacion_ej2} se muestra la última iteración, en la que se observa que la posición estimada está bastante cerca de la real, (4.0625, -0.0650) vs (4.0, 0.0) respectivamente. Además observamos que en esta iteración la probabilidad de los centros de los cuadrantes es menor que la de probabilidad de la iteración previa, por lo que la posición estimada se mantiene sin cambios.
 \begin{figure}[htb]
@@ -144,6 +144,6 @@ We have implemented an algorithm for modelling the position and orientation (the
 We have made improvements such as using a variable increment for the search area through a pyramidal approach.
 
 \bigskip Also, we have considered the complexity of the algorithm, which depends on the noise in the movement and sensors, as well as the threshold for the error. A lower threshold requires more calculations, so it is important to find a balance between precision and performance.
-This has been proved experimentally. Additionally, we have also tested the impact of the angular velocity on the robot's trajectory, seen that a higher angular velocity results in tighter turns whereas a lower angular velocity results in wider turns and usually a longer trajectory.
+This has been proved experimentally. Additionally, we have also tested the impact of the angular velocity on the robot's trajectory, seing that a higher angular velocity results in tighter turns whereas a lower angular velocity results in wider turns and usually a longer trajectory.
 
-\bigskip Althoug the algorithm has performed well on the experiments, it has a relatively high computational cost, and a more efficient approach will be discussed in the next chapter, the particle filter.
+\bigskip Although the algorithm has performed well on the experiments, it has a relatively high computational cost, and a more efficient approach will be discussed in the next chapter, the particle filter.

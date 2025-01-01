@@ -11,7 +11,7 @@ El código proporcionado contiene muchas de las funciones necesarias. Para el co
 \begin{itemize}
   \item \texttt{genera\_filtro}: Se inicializa el filtro de partículas con el tamaño indicado, para ello se crea un array de robots, siendo
 cada uno una partícula. Se inicializa cada partícula con un ruido arbitrario, y se asigna una posición siguiendo una distribución uniforme en el área
-descrita por el centro y el radio indicados. Adicionalmente, la orientación se establece añadiendo un ruido gausiano a la orientaión ideal. Por último,
+descrita por el centro y el radio indicados. Adicionalmente, la orientación se establece añadiendo un ruido gaussiano a la orientación ideal. Por último,
 se establece la probabilidad de cada partícula en base a las mediciones y las balizas.
   \item \texttt{dispersion}: Considera la dispersión espacial de las partículas, para ello, se retorna un array conteniendo los valores mínimos y máximos de las componentes x e y de las posiciones de todas las partículas.
   \item \texttt{peso\_medio}: Se calcula el peso medio empleando la suma de todos los pesos para normalizar el de cada partícula.
@@ -154,7 +154,7 @@ se pierde la trayectoria real del robot en varias ocasiones.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Conclusions}
 We have implemented a simple particle filter and proved its functionality with some examples. We have studied the computational complexity of the algorithm and seen that
-a higher particle count leads to a higher precision, but also to a higher computational cost. It seems that 50 particles is a good balance between precision and performance.
+a higher particle count leads to improved precision, but also increases the computational cost. It seems that 50 particles is a good balance between precision and performance.
 It is also worth noting that this algorithm is a fast approach for localization of a moving robot, being faster than the approach described in chapter 4.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
