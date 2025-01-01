@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1735739175.11288 "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" "memtfg.pdf" "memtfg" 1735739178.4523 0
+["pdflatex"] 1735761045.51733 "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" "memtfg.pdf" "memtfg" 1735761048.92048 0
   "/home/jr/Downloads/robotica_computacional/Memoria_practicas/memtfg.tex" 1735685225.33834 6055 7bc59429610c509c44397b3fcb5779c7 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -161,10 +161,10 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1735428636 3347789 0d97d0425af9b8a8d02d7fa4f7fbbfc4 ""
   "/usr/local/texlive/2024/texmf.cnf" 1735428572.70895 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "cap1.tex" 1735485077.40071 539 e56f022716d957595dd3506d7698cd7a ""
-  "cap2.tex" 1735521810.6835 7185 4c675c994e449ca6baefe28f9b30a0af ""
+  "cap2.tex" 1735739289.53255 7185 40d598c53ec177c990c242af8e20c0fa ""
   "cap3.tex" 1735739105.75329 10437 3d0ccc810822d02062b191144c3b87bf ""
   "cap4.tex" 1735739174.70101 11986 c33c66cb37bc5deaa57e7cd6124dc5f4 ""
-  "cap5.tex" 1735739127.5732 10041 d1946b6c4e7c4325675397d434abc3fa ""
+  "cap5.tex" 1735761043.00211 10188 c6839642aac6ab3b9e86dc621596364b ""
   "ctable.sty" 1528822142 10366 1a99e4c57bfb30667e7c5356722db4a2 ""
   "images/ccd_1.png" 1735520803.46021 103460 ce35c7bebe62c3dab62e1cfa42cf07f2 ""
   "images/ccd_10.png" 1735523636.52604 10876 2b786400569a03270715341ea0169617 ""
@@ -211,11 +211,11 @@
   "images/localizacion7.png" 1735662500.36509 8510 dc8857f6dc391d4fbd9e9d23e46be2c6 ""
   "images/localizacion8.png" 1735662501.10109 13974 d4ba4708add9d4c37e1a751505e6e903 ""
   "images/localizacion9.png" 1735662501.24109 121699 9ecbcde5f4ec53da805d7d091227b3f9 ""
-  "memtfg.aux" 1735739178.333 18284 878ac997c859b526d362a41a569d9cec "pdflatex"
-  "memtfg.lof" 1735739178.337 5141 96dcf6a719d0efb2928cc5908b82b281 "pdflatex"
-  "memtfg.out" 1735739178.333 6205 26a95894e1124ad6ef26d9292a80a466 "pdflatex"
+  "memtfg.aux" 1735761048.80609 18284 6eb0feb5251ae8430a8ee1e178d1493c "pdflatex"
+  "memtfg.lof" 1735761048.80609 5141 96dcf6a719d0efb2928cc5908b82b281 "pdflatex"
+  "memtfg.out" 1735761048.80609 6205 26a95894e1124ad6ef26d9292a80a466 "pdflatex"
   "memtfg.tex" 1735685225.33834 6055 7bc59429610c509c44397b3fcb5779c7 ""
-  "memtfg.toc" 1735739178.337 3904 7f8cb37cc323a02cd4e14ea6d2361bbf "pdflatex"
+  "memtfg.toc" 1735761048.80609 3904 4e97364f19ffac5154021ce256da0276 "pdflatex"
   "multirow.sty" 1528822142 7374 f7c1f13fc632dd5c9b220a247d233082 ""
   "spanish.ldf" 1528822142 21612 5772dec1e643132e9ec6e1b45cbe2ddb ""
   (generated)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  1 JAN 2025 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.28)  1 JAN 2025 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1282,47 +1282,47 @@ Package pdftex.def Info: images/filtroc5.png  used on input line 57.
 <images/filtro1.png, id=606, 462.528pt x 346.896pt>
 File: images/filtro1.png Graphic file (type png)
 <use images/filtro1.png>
-Package pdftex.def Info: images/filtro1.png  used on input line 92.
+Package pdftex.def Info: images/filtro1.png  used on input line 93.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro2.png, id=607, 462.528pt x 346.896pt>
 File: images/filtro2.png Graphic file (type png)
 <use images/filtro2.png>
-Package pdftex.def Info: images/filtro2.png  used on input line 98.
+Package pdftex.def Info: images/filtro2.png  used on input line 99.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro3.png, id=608, 463.2507pt x 346.896pt>
 File: images/filtro3.png Graphic file (type png)
 <use images/filtro3.png>
-Package pdftex.def Info: images/filtro3.png  used on input line 104.
+Package pdftex.def Info: images/filtro3.png  used on input line 105.
 (pdftex.def)             Requested size: 386.95897pt x 289.78151pt.
 <images/filtro4.png, id=609, 462.528pt x 346.896pt>
 File: images/filtro4.png Graphic file (type png)
 <use images/filtro4.png>
-Package pdftex.def Info: images/filtro4.png  used on input line 110.
+Package pdftex.def Info: images/filtro4.png  used on input line 111.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro5.png, id=610, 462.528pt x 346.896pt>
 File: images/filtro5.png Graphic file (type png)
 <use images/filtro5.png>
-Package pdftex.def Info: images/filtro5.png  used on input line 116.
+Package pdftex.def Info: images/filtro5.png  used on input line 117.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro7.png, id=614, 462.528pt x 346.896pt>
 File: images/filtro7.png Graphic file (type png)
 <use images/filtro7.png>
-Package pdftex.def Info: images/filtro7.png  used on input line 127.
+Package pdftex.def Info: images/filtro7.png  used on input line 128.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro8.png, id=615, 462.528pt x 346.896pt>
 File: images/filtro8.png Graphic file (type png)
 <use images/filtro8.png>
-Package pdftex.def Info: images/filtro8.png  used on input line 133.
+Package pdftex.def Info: images/filtro8.png  used on input line 134.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro9.png, id=616, 462.528pt x 346.896pt>
 File: images/filtro9.png Graphic file (type png)
 <use images/filtro9.png>
-Package pdftex.def Info: images/filtro9.png  used on input line 139.
+Package pdftex.def Info: images/filtro9.png  used on input line 140.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 <images/filtro10.png, id=618, 462.528pt x 346.896pt>
 File: images/filtro10.png Graphic file (type png)
 <use images/filtro10.png>
-Package pdftex.def Info: images/filtro10.png  used on input line 150.
+Package pdftex.def Info: images/filtro10.png  used on input line 151.
 (pdftex.def)             Requested size: 386.95897pt x 290.23143pt.
 )
 
@@ -1359,7 +1359,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,1063b,709s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fveb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fver8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb>
-Output written on memtfg.pdf (43 pages, 1937240 bytes).
+Output written on memtfg.pdf (43 pages, 1937358 bytes).
 PDF statistics:
  728 PDF objects out of 1000 (max. 8388607)
  571 compressed objects within 6 object streams
